@@ -28,19 +28,19 @@ const QrScanner = dynamic(
 const merchants = [
   {
     id: "m-1",
-    name: "Kedai Mesra Kolej Tuah",
-    amount: 8.5,
+    name: "Cafe Bentara",
+    amount: 8.0,
     image: images.merchants["m-1"],
   },
   {
     id: "m-2",
-    name: "Kafe FHTM Lendu",
-    amount: 12.0,
+    name: "Pakya Sinar",
+    amount: 7.0,
     image: images.merchants["m-2"],
   },
   {
     id: "m-3",
-    name: "Bean & Brew Lendu",
+    name: "Cafe Richiamo",
     amount: 9.0,
     image: images.merchants["m-3"],
   },

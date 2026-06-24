@@ -12,23 +12,35 @@ DOWNLOADS: dict[str, tuple[str, str]] = {
     # ── Cafes ──────────────────────────────────────────────────────────────
     "cafes/cafe-1.jpg": (
         "photo-1555396273-367ea4eb4db5",
-        "Kafe FHTM Lendu – restaurant interior",
+        "Cafe Bentara – cafeteria interior",
     ),
     "cafes/cafe-2.jpg": (
-        "photo-1754103315503-519382a12ee0",
-        "Warung Selera – Malaysian hawker stall",
+        "photo-1517248135467-4c7edcad34c4",
+        "Dewan Laksamana – dining hall",
     ),
     "cafes/cafe-3.jpg": (
-        "photo-1495474472287-4d71bcdd2085",
-        "Bean & Brew – coffee cups",
+        "photo-1754103315503-519382a12ee0",
+        "Cafe Jebat – hawker stall",
     ),
     "cafes/cafe-4.jpg": (
-        "photo-1441986300917-64674bd600d8",
-        "Kedai Mesra – convenience store interior",
+        "photo-1596797038530-2c107229654b",
+        "Cafe Tun Sabariah – Malay food",
     ),
     "cafes/cafe-5.jpg": (
+        "photo-1495474472287-4d71bcdd2085",
+        "Cafe Sunshine – coffee",
+    ),
+    "cafes/cafe-6.jpg": (
+        "photo-1677921755291-c39158477b8e",
+        "Pakya Sinar – nasi lemak",
+    ),
+    "cafes/cafe-7.jpg": (
         "photo-1559339352-11d035aa65de",
-        "Sushi Corner – sushi restaurant",
+        "Cafe Richiamo – cafe interior",
+    ),
+    "cafes/cafe-8.jpg": (
+        "photo-1680675494363-75bbf9838a09",
+        "Cafe Pedas Manis – spicy noodles",
     ),
     # ── Menu items (matched to menu name) ───────────────────────────────────
     "menu/m-1.jpg": (
@@ -96,12 +108,108 @@ DOWNLOADS: dict[str, tuple[str, str]] = {
         "Potato Chips – chips",
     ),
     "menu/m-17.jpg": (
-        "photo-1553621042-f6e147245754",
-        "Salmon Maki Set – sushi maki",
+        "photo-1680675494363-75bbf9838a09",
+        "Nasi Goreng Pedas – fried rice",
     ),
     "menu/m-18.jpg": (
+        "photo-1596797038530-2c107229654b",
+        "Ayam Masak Merah – chicken rice",
+    ),
+    "menu/m-19.jpg": (
         "photo-1546069901-ba9599a7e63c",
-        "Chicken Teriyaki Bento – rice bowl",
+        "Nasi Goreng Kampung",
+    ),
+    "menu/m-20.jpg": (
+        "photo-1741241857887-321f7fbcacf2",
+        "Ayam Goreng Berempah",
+    ),
+    "menu/m-21.jpg": (
+        "photo-1768703321808-be77e535a523",
+        "Teh O Ais",
+    ),
+    "menu/m-22.jpg": (
+        "photo-1677921755291-c39158477b8e",
+        "Nasi Campur",
+    ),
+    "menu/m-23.jpg": (
+        "photo-1633271332313-04df64c0105b",
+        "Sup Tulang",
+    ),
+    "menu/m-24.jpg": (
+        "photo-1649067842726-a5c973a3a62c",
+        "Sirap Bandung",
+    ),
+    "menu/m-25.jpg": (
+        "photo-1626804475297-41608ea09aeb",
+        "Roti Telur",
+    ),
+    "menu/m-26.jpg": (
+        "photo-1633271332313-04df64c0105b",
+        "Mee Sup",
+    ),
+    "menu/m-27.jpg": (
+        "photo-1509042239860-f550ce710b93",
+        "Nescafe Ais",
+    ),
+    "menu/m-28.jpg": (
+        "photo-1680675494363-75bbf9838a09",
+        "Nasi Goreng Pattaya",
+    ),
+    "menu/m-29.jpg": (
+        "photo-1744444202869-54debf97b285",
+        "Ayam Penyet",
+    ),
+    "menu/m-30.jpg": (
+        "photo-1559827260-dc66d52bef19",
+        "Limau Ais",
+    ),
+    "menu/m-31.jpg": (
+        "photo-1461023058943-07fcbe16d735",
+        "Cappuccino",
+    ),
+    "menu/m-32.jpg": (
+        "photo-1528735602780-2552fd46c7af",
+        "Chicken Mayo Sandwich",
+    ),
+    "menu/m-33.jpg": (
+        "photo-1565958011703-44f9829ba187",
+        "Chocolate Cake Slice",
+    ),
+    "menu/m-34.jpg": (
+        "photo-1680675494363-75bbf9838a09",
+        "Nasi Goreng USA",
+    ),
+    "menu/m-35.jpg": (
+        "photo-1741241857887-321f7fbcacf2",
+        "Ayam Popcorn",
+    ),
+    "menu/m-36.jpg": (
+        "photo-1509042239860-f550ce710b93",
+        "Kopi O Panas",
+    ),
+    "menu/m-37.jpg": (
+        "photo-1509042239860-f550ce710b93",
+        "Americano",
+    ),
+    "menu/m-38.jpg": (
+        "photo-1555507036-ab1f4038808a",
+        "Garlic Cheese Bread",
+    ),
+    "menu/m-39.jpg": (
+        "photo-1649067842726-a5c973a3a62c",
+        "Iced Chocolate",
+    ),
+    "menu/m-40.jpg": (
+        "photo-1540189549336-e6e99c3679fe",
+        "Sambal Udang",
+    ),
+    "menu/m-41.jpg": (
+        "photo-1551024506-0bccd828d307",
+        "Cendol",
+    ),
+    "menu/m-42.jpg": (
+        "photo-1569718212165-3a8278d5f624",
+        "Mee Rebus",
     ),
     # ── Rewards (reuse matching food photos) ─────────────────────────────────
     "rewards/r-1.jpg": (
