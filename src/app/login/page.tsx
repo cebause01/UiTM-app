@@ -49,13 +49,13 @@ export default function LoginPage() {
     <div className="flex min-h-dvh flex-col bg-uitm-brand-subtle px-4 py-8">
       <div className="mx-auto flex w-full max-w-md flex-1 flex-col justify-center">
         <div className="mb-8 text-center">
-          <div className="mx-auto mb-4 inline-block overflow-hidden rounded-2xl shadow-md ring-1 ring-border/60">
+          <div className="mx-auto mb-4 inline-block">
             <Image
               src={brandAssets.appLogo}
               alt={`${APP_NAME} logo`}
-              width={96}
-              height={96}
-              className="size-24 object-contain"
+              width={128}
+              height={128}
+              className="size-32 object-contain"
               priority
             />
           </div>

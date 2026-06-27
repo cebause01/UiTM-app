@@ -25,9 +25,9 @@ export default function SplashPage() {
         <Image
           src={brandAssets.appLogo}
           alt={`${APP_NAME} logo`}
-          width={120}
-          height={120}
-          className="size-28 rounded-2xl object-contain shadow-2xl"
+          width={160}
+          height={160}
+          className="size-40 object-contain"
           priority
         />
         <h1 className="mt-8 text-3xl font-bold tracking-tight">{APP_NAME}</h1>

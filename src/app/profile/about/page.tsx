@@ -26,9 +26,9 @@ export default function AboutPage() {
             <Image
               src={brandAssets.appLogo}
               alt={`${APP_NAME} logo`}
-              width={96}
-              height={96}
-              className="size-24 object-contain"
+              width={128}
+              height={128}
+              className="size-32 object-contain"
             />
             <h2 className="mt-4 text-xl font-bold text-uitm-navy">{APP_NAME}</h2>
             <p className="mt-1 text-sm text-muted-foreground">{APP_TAGLINE}</p>
