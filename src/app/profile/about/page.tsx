@@ -25,7 +25,7 @@ export default function AboutPage() {
           <CardContent className="flex flex-col items-center p-6 text-center">
             <Image
               src={brandAssets.appLogo}
-              alt="UiTM"
+              alt={`${APP_NAME} logo`}
               width={96}
               height={96}
               className="size-24 object-contain"

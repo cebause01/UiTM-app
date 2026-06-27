@@ -52,7 +52,7 @@ export default function LoginPage() {
           <div className="mx-auto mb-4 inline-block overflow-hidden rounded-2xl shadow-md ring-1 ring-border/60">
             <Image
               src={brandAssets.appLogo}
-              alt="Universiti Teknologi MARA"
+              alt={`${APP_NAME} logo`}
               width={96}
               height={96}
               className="size-24 object-contain"

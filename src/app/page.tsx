@@ -24,7 +24,7 @@ export default function SplashPage() {
       <div className="relative z-10 flex flex-col items-center">
         <Image
           src={brandAssets.appLogo}
-          alt="Universiti Teknologi MARA"
+          alt={`${APP_NAME} logo`}
           width={120}
           height={120}
           className="size-28 rounded-2xl object-contain shadow-2xl"

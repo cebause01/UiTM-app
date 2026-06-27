@@ -32,7 +32,7 @@ export default function CheckoutPage() {
   } = useApp();
   const cafe = activeCafeId ? getCafeById(activeCafeId) : null;
   const [isPreOrder, setIsPreOrder] = useState(false);
-  const [pickupSlot, setPickupSlot] = useState(preOrderSlots[3].id);
+  const [pickupSlot, setPickupSlot] = useState(preOrderSlots[4].id);
   const [paymentMethod, setPaymentMethod] = useState("wallet");
   const [success, setSuccess] = useState(false);
   const [orderId, setOrderId] = useState("");
